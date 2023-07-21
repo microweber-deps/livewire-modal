@@ -1,5 +1,5 @@
 {
-  "name": "wire-elements/modal",
+  "name": "microweber-deps/livewire-modal",
   "description": "Laravel Livewire modal component",
   "keywords": [
     "laravel",
@@ -30,8 +30,8 @@
   },
   "require": {
     "php": "^7.4|^8.0",
-    "livewire/livewire": "^2.0",
-    "spatie/laravel-package-tools": "^1.9"
+    "livewire/livewire": "*",
+    "spatie/laravel-package-tools": "*"
   },
   "autoload": {
     "psr-4": {
